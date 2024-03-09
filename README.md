@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Maiah!
+### Hi there 👋 my name is mai
 
 <!--
 **mlee60/mlee60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
